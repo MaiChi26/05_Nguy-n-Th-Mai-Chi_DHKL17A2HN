@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<ds-sinhvien>
+    <sinhvien>
+        <masv>23174600049</masv>
+        <tensv>Nguyễn Thị Mai Chi</tensv>
+        <namsinh>2005</namsinh>
+        <lop>DHKL17A2HN</lop>
+        <gioitinh>Nữ</gioitinh>
+    </sinhvien>
+</ds-sinhvien>
